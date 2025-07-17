@@ -4,7 +4,6 @@
 
 Tap Tap Friend is a playful, sensory-friendly AI companion app co-designed with the Super Ability Crew. It helps users of all abilities stay connected, supported, and seen — whether it's through daily check-ins, event reminders, or just a friendly "you got this" from Jelly, our glowing little AI friend.
 
----
 
 ## ✨ Why We Built This
 
@@ -14,7 +13,6 @@ Because everyone deserves tech that feels like home.
 
 What started as a grassroots tool for supporting neurodivergent adults became something bigger — a movement toward building tech with heart.
 
----
 
 ## 🧠 Features (MVP)
 
@@ -25,7 +23,6 @@ What started as a grassroots tool for supporting neurodivergent adults became so
 - 🗓️ **Calendar Support** – Google Calendar or local reminders  
 - 🧩 **Built With and For Community** – shaped by real voices
 
----
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +33,6 @@ What started as a grassroots tool for supporting neurodivergent adults became so
 - **Calendar Integration**: Google Calendar API
 - **Hosting**: Vercel or Firebase
 
----
 
 ## 🎬 Demo
 
