@@ -54,15 +54,6 @@ export default function MeetJelly() {
         <p className="text-gray-700 mb-4">
           👉 <a href="https://forms.gle/your-google-form-link" target="_blank" className="text-blue-600 underline">Send feedback to help Jelly grow</a>
         </p>
-        <ul className="list-disc list-inside text-gray-700 mb-6">
-          <li>What you love</li>
-          <li>What’s missing</li>
-          <li>What would make Jelly even more helpful for you or your community</li>
-        </ul>
-
-        <blockquote className="border-l-4 border-yellow-400 pl-4 italic text-gray-600">
-          “Hi! I’m Jelly. I’m still learning, but I love being here for you. Let’s make something beautiful together.”
-        </blockquote>
       </main>
     </>
   )
